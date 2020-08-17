@@ -15,7 +15,7 @@ A Budget Tracker application that allows for offline access and functionality. T
 
 ## Deployment
 
-Deployed Website: https://rosa-workout-tracker.herokuapp.com/
+Deployed Website: 
 
 ![budget-tracker.png](./public/budget-tracker.png)
 
