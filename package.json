@@ -1,0 +1,20 @@
+{
+  "name": "budget-tracker",
+  "version": "1.0.0",
+  "description": "A Budget Tracker application that allows for offline access and functionality. The user will be able to add expenses and deposits to their budget with or without a connection.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rosajen27/budget-tracker.git"
+  },
+  "author": "Jennifer Rosa (Rosajen27)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rosajen27/budget-tracker/issues"
+  },
+  "homepage": "https://github.com/rosajen27/budget-tracker#readme"
+}
