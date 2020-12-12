@@ -6,7 +6,6 @@ A Budget Tracker application that allows for offline access and functionality. T
 ## Table of Contents
 * [Deployment](#deployment)
 * [Built With](#built-with)
-* [Installation](#installation)
 * [Usage](#usage)
 * [Authors](#authors)
 * [License](#license)
@@ -30,14 +29,6 @@ Deployed Website: https://rosa-budget-tracker.herokuapp.com/
 * Express
 * Node
 
-## Installation 
-
-* npm i
-* npm i express
-* npm i mongoose
-* npm i morgan
-* npm i compression
-* npm start
 
 ## Usage
 
