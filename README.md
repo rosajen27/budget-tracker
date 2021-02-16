@@ -1,12 +1,20 @@
-# Budget Tracker
+# 💹 Budget Tracker
 
-A Budget Tracker application that allows for offline access and functionality. The user will be able to add expenses and deposits to their budget with or without a connection.
+A Budget Tracker application that allows for offline access and functionality. The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, the tracker will populate the total when brought back online.
+
+Offline Functionality:
+
+* Enter deposits offline
+* Enter expenses offline
+
+When brought back online:
+
+* Offline entries should be added to tracker.
 
 
 ## Table of Contents
 * [Deployment](#deployment)
 * [Built With](#built-with)
-* [Usage](#usage)
 * [Authors](#authors)
 * [License](#license)
 * [Acknowledgements](#acknowledgement)
@@ -24,24 +32,9 @@ Deployed Website: https://rosa-budget-tracker.herokuapp.com/
 * HTML
 * CSS
 * JavaScript
-* Mongo DB
-* Mongoose
-* Express
-* Node
+* MongoDB + Mongoose
+* Node.js + Express
 
-
-## Usage
-
-The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
-
-Offline Functionality:
-
-* Enter deposits offline
-* Enter expenses offline
-
-When brought back online:
-
-* Offline entries should be added to tracker.
 
 ## Authors
 
@@ -55,7 +48,7 @@ When brought back online:
 
 This project is licensed under the MIT License.
 
-Copyright (c) 2020 Jennifer Rosa
+Copyright (c) 2021 Jennifer Rosa
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
